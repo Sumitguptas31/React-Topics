@@ -60,6 +60,7 @@ root.render(
     {/* <ComponentUpdate/> */}
     {/* <ShouldUpdate/> */}
     {/* <ComponentUnmount/> */}
+    {/* <EffectUser/> */}
     {/* <UseEffect/> */}
     {/* <NewUseEffect/> */}
     {/* <PropsEffect/> */}
@@ -67,10 +68,10 @@ root.render(
     {/* <App /> */}
     {/* <StudentList/> */}
     {/* <StudentTable/> */}
-    {/* <NestedList/> */}
+    <NestedList/>
     {/* <ReuseComponent/> */}
     {/* <Fragment/> */}
-    <ChildToParents/>
+    {/* <ChildToParents/> */}
     {/* <MyComponent/> */}
     {/* <UseMemo/> */}
     {/* <RefPractice/> */}
